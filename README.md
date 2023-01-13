@@ -36,6 +36,15 @@ Url: mongodb://localhost:27017/nest-pokemon
 
 ```
 
+5. Reconstruir la base de datos con la semilla
+
+```bash
+# Run http Method Get
+http://localhost:3000/api/v2/seed
+
+
+```
+
 ## Stack usado
 
 - MongoDB
